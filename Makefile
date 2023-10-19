@@ -1,5 +1,5 @@
 #
-# Created by gmakemake (Ubuntu Jul 25 2014) on Mon Oct 16 17:53:45 2023
+# Created by gmakemake (Ubuntu Jul 25 2014) on Thu Oct 19 11:20:44 2023
 #
 
 #
@@ -71,7 +71,7 @@ concordance:	concordance.o $(OBJFILES)
 # Dependencies
 #
 
-bst.o:	
+bst.o:	bst.h
 concordance.o:	bst.h
 
 #

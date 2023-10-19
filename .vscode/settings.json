@@ -1,0 +1,17 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/stu5/s4/alo4583/Courses/CSCI243/Homeworks/hw5",
+            "binaryPath": "/home/stu5/s4/alo4583/Courses/CSCI243/Homeworks/hw5/concordance",
+            "binaryArgs": [
+                "<",
+                "input.1"
+            ]
+        },
+        {
+            "cwd": "/home/stu5/s4/alo4583/Courses/CSCI243/Homeworks/hw5",
+            "binaryPath": "/home/stu5/s4/alo4583/Courses/CSCI243/Homeworks/hw5/concordance",
+            "binaryArgs": []
+        }
+    ]
+}
